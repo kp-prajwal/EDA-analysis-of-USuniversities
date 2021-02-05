@@ -23,4 +23,4 @@ The hypotheses and questions generated to develop this projects are:
 * Do students prefer a university because it belongs to a state with a high GDP per capita?
 * Do students prefer a university based on the possibility of a higher, additional academic degree in the same university?
 
-Link : https://github.com/kulkarniprajwal/EDA-analysis-of-USuniversities/blob/master/Analysis_US_Unis.ipynb
+Link : https://nbviewer.jupyter.org/github/kulkarniprajwal/EDA-analysis-of-USuniversities/blob/master/Analysis_US_Unis.ipynb
